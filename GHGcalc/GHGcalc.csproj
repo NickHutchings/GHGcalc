@@ -8,7 +8,6 @@
   <ItemGroup>
     <Compile Include="..\..\..\..\..\..\Workspace\tools\GHGcalc\CropClass.cs" Link="CropClass.cs" />
     <Compile Include="..\..\..\..\..\..\Workspace\tools\GHGcalc\CropSequenceClass.cs" Link="CropSequenceClass.cs" />
-    <Compile Include="..\..\..\..\..\..\Workspace\tools\GHGcalc\ctool2.cs" Link="ctool2.cs" />
     <Compile Include="..\..\..\..\..\..\Workspace\tools\GHGcalc\FarmBalances.cs" Link="FarmBalances.cs" />
     <Compile Include="..\..\..\..\..\..\Workspace\tools\GHGcalc\feedItem.cs" Link="feedItem.cs" />
     <Compile Include="..\..\..\..\..\..\Workspace\tools\GHGcalc\FileInformation.cs" Link="FileInformation.cs" />
